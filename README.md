@@ -1,6 +1,6 @@
 # Hi, I'm Miloš 👋
 
-I'm a passionate **developer & IT enthusiast** from Serbia, always learning and exploring new technologies to grow in the world of software development and DevOps.
+I'm a passionate **developer & IT enthusiast** from Serbia, always learning and exploring new technologies to grow in the world of software development.
 
 ---
 
