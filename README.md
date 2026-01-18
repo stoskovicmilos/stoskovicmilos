@@ -21,10 +21,11 @@ I'm a passionate **developer & IT enthusiast** from Serbia, always learning and 
 ---
 
 ## 🌱 Currently Learning
-- Advanced JavaScript & design patterns  
+- Advanced JavaScript & design patterns
+- Learning from scrach Java and Python  
 - API development & integration  
 - DevOps basics & cloud infrastructure  
-- Modern web frameworks & tools  
+- Modern web frameworks & tools
 
 ---
 
